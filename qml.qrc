@@ -3,5 +3,6 @@
         <file>main.qml</file>
         <file>Progressbar/Demo1/Progress.js</file>
         <file>Progressbar/Demo1/SprayProgressbar.qml</file>
+        <file>CustomShapes/Hexagon.qml</file>
     </qresource>
 </RCC>
